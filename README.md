@@ -1,11 +1,8 @@
-Angular Todo App - Web Development Tutorial
-<br>
+# Angular Todo App - Web Development Tutorial
 <h3>
 Youtube Video: https://youtu.be/EMFT9QWPafc
 </h3>
-
-# TodoApp
-
+<br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
 ## Development server
