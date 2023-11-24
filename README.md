@@ -1,10 +1,8 @@
-# Angular Todo App - Web Development Tutorial
+Angular Todo App - Web Development Tutorial
 <br>
 <h3>
 Youtube Video: https://youtu.be/EMFT9QWPafc
 </h3>
-
-</br>
 
 # TodoApp
 
