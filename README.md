@@ -1,3 +1,11 @@
+# Angular Todo App - Web Development Tutorial
+<br>
+<h3>
+Youtube Video: https://youtu.be/EMFT9QWPafc
+</h3>
+
+</br>
+
 # TodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
@@ -25,3 +33,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+</br>
+
+
+![AngularTodoApp (Time 0_56_25;01)](https://github.com/academynet/AngularTodoApp/assets/139820934/7d101dde-bc77-4aae-976e-bd2a782eca8a)
