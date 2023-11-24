@@ -1,0 +1,12 @@
+<div class="card my-3" style="width: 18rem;" *ngIf="task">
+  <div class="card-body">
+    <h5 class="card-title my-2">Task #{{task.id}}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">{{task.title}}Card subtitle</h6>
+    <p class="card-text">{{task.note}}</p>
+
+   <div class=" my-2">
+     <button (click)="delete(task.id)" class="btn btn-success">Task done !</button>
+     <button class="btn btn-light mx-2" [routerLink]="['/tasks']">Back</button>
+   </div>
+  </div>
+</div>
